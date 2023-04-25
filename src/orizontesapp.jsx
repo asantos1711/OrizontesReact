@@ -3,13 +3,11 @@
 // }
 
 import React from 'react'
-import './assets/style.css';
 import Header from './widgets/header';
 const App = () => {
     return (
         <>
-
-            <Header />
+            <Header></Header>
             <div class='body'>
                 boddy
             </div>
