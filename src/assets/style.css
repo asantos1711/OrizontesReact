@@ -1,13 +1,20 @@
 .header {
     margin: 0%;
     padding: 0%;
+    left: 0%;
+    right: 0%;
     /* height: 50%; */
-    width: 100%;
     background: #0042FF;
 }
 
 img {
     margin: 10px;
+    /* width: 15%; */
+}
+
+.forIcon {
+    align-content: center;
+    color: beige;
     /* width: 15%; */
 }
 
